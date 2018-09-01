@@ -1,0 +1,21 @@
+{
+  "name": "drawing-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "fabric": "^2.3.6",
+    "literallycanvas": "^0.4.13",
+    "react": "^16.4.2",
+    "react-addons": "^0.9.1-deprecated",
+    "react-addons-pure-render-mixin": "^15.6.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.4",
+    "react-sketch": "^0.4.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
